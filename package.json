@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hendisantika/nodejs-mysql-crud.git"
+    "url": ""
   },
   "keywords": [
     "nodejs",
@@ -17,7 +17,7 @@
     "mysql",
     "crud"
   ],
-  "author": "Hendi Santika",
+  "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/hendisantika/nodejs-mysql-crud/issues"
